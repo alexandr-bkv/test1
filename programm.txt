@@ -6,5 +6,5 @@ add line again in my programm. version3
 =======
 add line again in my programm. ver 4
 >>>>>>> origin/master
-del this line
+test line
 new line version 2
