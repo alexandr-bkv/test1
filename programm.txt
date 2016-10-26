@@ -1,6 +1,10 @@
 
 line of my programm. changed. version 2
 second line of my programm. version 2
+<<<<<<< HEAD
 add line again in my programm. version3
+=======
+add line again in my programm. ver 4
+>>>>>>> origin/master
 del this line
 new line version 2
