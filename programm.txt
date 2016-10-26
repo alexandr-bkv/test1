@@ -8,3 +8,4 @@ add line again in my programm. ver 4
 >>>>>>> origin/master
 test line
 new line version 2
+Add line conflict test 2
